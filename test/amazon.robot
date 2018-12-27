@@ -25,8 +25,7 @@ enter the login details
       input text  xpath=//*[@id="cvf-page-content"]/div/div/div[1]/form/div[2]/input  984242
       click element  xpath=
       sleep  5s
-      close browser
-
+      
 *** Test Cases ***
 User must sign in to check out
     [Documentation]  This is some basic info about the test
